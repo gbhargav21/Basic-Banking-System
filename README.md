@@ -4,4 +4,4 @@ Stack used :
 Front-end : HTML, CSS, Bootstrap & Javascript 
 Back-end : PHP 
 Database : MySQL
-Hosting:Wamp Server(Local Host)
+Wamp Server(Local Host)
